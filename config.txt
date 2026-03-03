@@ -1,0 +1,2 @@
+user.name=Hamidou 
+user.email=hamidoumamoudou125@icloud.com
