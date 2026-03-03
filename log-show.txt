@@ -1,0 +1,14 @@
+commit 55998fdaba16f85db61208d5d5c6fe519c2fd891
+Author: Hamidou <hamidoumamoudou125@icloud.com>
+Date:   Tue Mar 3 12:14:37 2026 +0000
+
+    challenge 3
+
+diff --git a/config.txt b/config.txt
+new file mode 100644
+index 0000000..3223a37
+--- /dev/null
++++ b/config.txt
+@@ -0,0 +1,2 @@
++user.name=Hamidou 
++user.email=hamidoumamoudou125@icloud.com
