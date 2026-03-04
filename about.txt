@@ -1,1 +1,1 @@
-"Contenu pour la page about" 
+"Ceci est la page About" 
