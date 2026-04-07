@@ -6,4 +6,4 @@ CHALLENGE 6 : preuve du git show
 
 
 CHALLENGE 8 : preuve du fichier ignoré avec git status
-![alt text](image-1.png)
+![alt text](image-1.png)'travail en cours' 
