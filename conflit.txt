@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "ligne modifi‚er sur main" 
+=======
+"ligne modifi‚e sur feature/conflit" 
+>>>>>>> feature/conflit
