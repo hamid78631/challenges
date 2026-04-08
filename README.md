@@ -7,3 +7,4 @@ CHALLENGE 6 : preuve du git show
 
 CHALLENGE 8 : preuve du fichier ignorÃ© avec git status
 ![alt text](image-1.png)'travail en cours' 
+"Tag ajout‚"  
